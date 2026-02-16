@@ -441,9 +441,7 @@ Save traffic log to specified file.
 
 ### Connect with TitoKilonzo
 
-- 📱 **Instagram:** [@titokilonzo](https://instagram.com/titokilonzo)
-- ✈️ **Telegram:** [@titokilonzo](https://t.me/titokilonzo)
-- 📘 **Facebook:** [titokilonzo](https://facebook.com/titokilonzo)
+- ✈️ **Telegram:** [@titokilonzo](https://t.me/Tito_kilonzo)
 
 ---
 
